@@ -1,10 +1,10 @@
 ### ICO-tutorial
 
 ## The following are required in order to create your first ICO on the Ethereum blockchain!
-- 📃 Ethereum Address (Ropsten Network) [We will be using the Ropsten Network to test out our ICO before laucnhing onto the mainnet!]
-- 🪙 Some Ethereum (Ropsten Network) [We will be using MyEtherWallet but any wallet works]
-- 📜 Text Editor (I.e Sublime/Atom)
-- 📝 Solidity Contract
+- 📃 Ethereum Address (Ropsten Network) [ We will be using the Ropsten Network to test out our ICO before laucnhing onto the mainnet! ]
+- 🪙 Some Ethereum (Ropsten Network) [ We will be using MyEtherWallet but any wallet works. ]
+- 📜 Text Editor (I.e Sublime/Atom) [ We will be using [Sublime][3]. ]
+- 📝 Solidity Contract [We will be using this [Sol Contract][4]. Credit to [BokkyPooBah][5]. ]
 - 🤞 A bunch of lucky charms during this process. 
 
 Before we start credit to [Moritz Neto][1]!
@@ -63,3 +63,6 @@ Before we start credit to [Moritz Neto][1]!
 
 [1]: https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374 "Moritz Neto"
 [2]: https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.2+commit.bacdbe57.js "Remix"
+[3]: https://www.sublimetext.com/ "Sublime"
+[4]: https://github.com/alfonsolua36/ICO-tutorial/blob/master/ico-contract.sol "Sol Contract"
+[5]: https://medium.com/@BokkyPooBah "BokkyPooBah"
